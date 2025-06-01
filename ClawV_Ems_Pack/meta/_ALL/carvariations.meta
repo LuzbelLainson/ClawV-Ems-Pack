@@ -1,0 +1,869 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<CVehicleModelInfoVariation>
+  <variationData>
+    <Item>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Liberty City Plate 3</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <sirenSettings value="12100"/>
+      <windowsWithExposedEdges/>
+      <modelName>emsalamo</modelName>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            134
+            134
+            0
+            3
+	        7
+	        156
+          </indices>
+        </Item>
+      </colors>
+      <lightSettings value="1"/>
+    </Item>
+    <Item>
+      <plateProbabilities>
+        <Probabilities/>
+      </plateProbabilities>
+      <sirenSettings value="12300"/>
+      <windowsWithExposedEdges/>
+      <modelName>emspredator</modelName>
+      <kits/>
+      <colors>
+        <Item>
+          <liveries>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+          </liveries>
+          <indices content="char_array">
+            111
+            88
+            0
+            156
+            0
+            0
+          </indices>
+        </Item>
+      </colors>
+      <lightSettings value="1"/>
+    </Item>
+    <Item>
+      <plateProbabilities>
+        <Probabilities/>
+      </plateProbabilities>
+      <sirenSettings value="12200"/>
+      <windowsWithExposedEdges/>
+      <modelName>emsdinghy</modelName>
+      <kits/>
+      <colors>
+        <Item>
+          <liveries>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+          </liveries>
+          <indices content="char_array">
+            111
+            1
+            8
+            156
+            0
+            0
+          </indices>
+        </Item>
+      </colors>
+      <lightSettings value="11"/>
+    </Item>
+    <Item>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <sirenSettings value="12500"/>
+      <windowsWithExposedEdges/>
+      <modelName>emscmd</modelName>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            28
+            134
+            0
+            0
+			0
+			0
+          </indices>
+        </Item>
+      </colors>
+      <lightSettings value="0"/>
+    </Item>
+    <Item>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <sirenSettings value="4"/>
+      <windowsWithExposedEdges/>
+      <modelName>emsfugitive</modelName>
+      <kits>
+        <Item>650_empty_modkit</Item>
+      </kits>
+      <colors>
+        <Item>
+          <liveries>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+          </liveries>
+          <indices content="char_array">
+			134
+          </indices>
+        </Item>
+      </colors>
+      <lightSettings value="1"/>
+    </Item>
+    <Item>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Liberty City Plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <sirenSettings value="12600"/>
+      <windowsWithExposedEdges/>
+      <modelName>emsamb</modelName>
+      <kits/>
+      <colors>
+        <Item>
+          <liveries/>
+          <indices content="char_array">
+          28
+          21
+          132
+          5
+          0
+          0
+          </indices>
+        </Item>
+        <Item>
+          <liveries/>
+          <indices content="char_array">
+          28
+          21
+          132
+          156
+          0
+          0
+          </indices>
+        </Item>
+      </colors>
+      <lightSettings value="44"/>
+    </Item>
+    <Item>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police Guv Plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <sirenSettings value="136"/>
+      <windowsWithExposedEdges/>
+      <modelName>emsbf400</modelName>
+      <kits>
+        <Item>0_suv_modkit</Item>
+      </kits>
+      <colors>
+        <Item>
+          <liveries>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+          </liveries>
+          <indices content="char_array">
+            12
+            0
+            2
+            7 
+	    8
+	    156
+          </indices>
+        </Item>
+      </colors>
+      <lightSettings value="1"/>
+    </Item>
+    <Item>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <sirenSettings value="138"/>
+      <windowsWithExposedEdges/>
+      <modelName>emsverus</modelName>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <colors>
+        <Item>
+          <liveries>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+          </liveries>
+          <indices content="char_array">
+            112
+            0
+            4
+            156
+	          0
+	          155
+          </indices>
+        </Item>
+        <Item>
+          <liveries>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+          </liveries>
+          <indices content="char_array">
+            155
+            0
+            4
+            156
+	        0
+	        155
+          </indices>
+        </Item>
+      </colors>
+      <lightSettings value="1"/>
+    </Item>
+    <Item>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <sirenSettings value="159"/>
+      <windowsWithExposedEdges/>
+      <modelName>emsriata</modelName>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <colors>
+        <Item>
+          <liveries>
+            <Item value="true"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+          </liveries>
+          <indices content="char_array"> 
+						89
+						89
+						156 
+						156
+						28
+                        111
+			            28
+          </indices>
+        </Item>
+      </colors>
+      <lightSettings value="1"/>
+    </Item>
+    <Item>
+      <plateProbabilities>
+        <Probabilities/>
+      </plateProbabilities>
+      <sirenSettings value="0"/>
+      <windowsWithExposedEdges/>
+      <modelName>emsmav</modelName>
+      <kits>
+        <Item>hash_collision_1597748230</Item>
+      </kits>
+      <colors>
+        <Item>
+          <liveries/>
+          <indices content="char_array">
+            <Item value="134"/>
+            <Item value="134"/>
+            <Item value="111"/>
+            <Item value="156"/>
+          </indices>
+        </Item>
+      </colors>
+      <lightSettings value="18"/>
+    </Item>
+    <Item>
+      <plateProbabilities>
+        <Probabilities/>
+      </plateProbabilities>
+      <sirenSettings value="0"/>
+      <windowsWithExposedEdges/>
+      <modelName>emsswift</modelName>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <colors>
+        <Item>
+          <liveries>
+            <Item value="true"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+          </liveries>
+          <indices content="char_array">
+                        122
+                        0
+                        0
+                        122
+                        4
+                        4
+          </indices>
+        </Item>
+        <Item>
+          <liveries>
+            <Item value="true"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+          </liveries>
+          <indices content="char_array">
+                        122
+                        0
+                        0
+                        2
+                        21
+                        21
+          </indices>
+        </Item>
+        <Item>
+          <liveries>
+            <Item value="false"/>
+            <Item value="true"/>
+            <Item value="true"/>
+            <Item value="true"/>
+          </liveries>
+          <indices content="char_array">
+                        122
+                        0
+                        0
+                        2
+                        4
+                        4
+          </indices>
+        </Item>
+        <Item>
+          <liveries>
+            <Item value="false"/>
+            <Item value="true"/>
+            <Item value="true"/>
+            <Item value="true"/>
+          </liveries>
+          <indices content="char_array">
+                        122
+                        0
+                        0
+                        2
+                        104
+                        104
+          </indices>
+        </Item>
+        <Item>
+          <liveries>
+            <Item value="false"/>
+            <Item value="true"/>
+            <Item value="true"/>
+            <Item value="true"/>
+          </liveries>
+          <indices content="char_array">
+                        122
+                        0
+                        0
+                        2
+                        46
+                        46
+          </indices>
+        </Item>
+      </colors>
+      <lightSettings value="475"/>
+    </Item>
+    <Item>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <sirenSettings value="23848"/>
+      <windowsWithExposedEdges/>
+      <modelName>emsamb2</modelName>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <colors>
+        <Item>
+          <liveries/>
+          <indices content="char_array">
+                        112
+                        2
+                        0
+                        147
+                        48
+                        48
+          </indices>
+        </Item>
+        <Item>
+          <liveries/>
+          <indices content="char_array">
+                        112
+                        2
+                        0
+                        147
+                        38
+                        38
+          </indices>
+        </Item>
+        <Item>
+          <liveries/>
+          <indices content="char_array">
+                        112
+                        2
+                        0
+                        147
+                        41
+                        41
+          </indices>
+        </Item>
+      </colors>
+      <lightSettings value="1"/>
+    </Item>
+    <Item>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <sirenSettings value="15650"/>
+      <windowsWithExposedEdges/>
+      <modelName>emsstalker</modelName>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <colors>
+        <Item>
+          <liveries/>
+          <indices content="char_array">
+                        112
+                        2
+                        0
+                        11
+                        150
+                        150
+          </indices>
+        </Item>
+        <Item>
+          <liveries/>
+          <indices content="char_array">
+                        112
+                        2
+                        0
+                        11
+                        92
+                        92
+          </indices>
+        </Item>
+      </colors>
+      <lightSettings value="155"/>
+    </Item>
+    <Item>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <sirenSettings value="13000"/>
+      <windowsWithExposedEdges/>
+      <modelName>emsamb3</modelName>
+      <kits>
+        <Item>2654_emsamb3_modkit</Item>
+      </kits>
+      <colors>
+        <Item>
+          <liveries>
+            <Item value="true"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+          </liveries>
+          <indices content="char_array">
+            0
+            0
+            0
+            0
+          </indices>
+        </Item>
+        <Item>
+          <liveries>
+            <Item value="false"/>
+            <Item value="true"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+          </liveries>
+          <indices content="char_array">
+            0
+            0
+            0
+            0
+          </indices>
+        </Item>
+        <Item>
+          <liveries>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="true"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+          </liveries>
+          <indices content="char_array">
+            0
+            0
+            0
+            0
+          </indices>
+        </Item>
+        <Item>
+          <liveries>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="true"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+          </liveries>
+          <indices content="char_array">
+            0
+            0
+            0
+            0
+          </indices>
+        </Item>
+        <Item>
+          <liveries>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="true"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+          </liveries>
+          <indices content="char_array">
+            0
+            0
+            0
+            0
+          </indices>
+        </Item>
+        <Item>
+          <liveries>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="true"/>
+            <Item value="false"/>
+            <Item value="false"/>
+          </liveries>
+          <indices content="char_array">
+            0
+            0
+            0
+            0
+          </indices>
+        </Item>
+        <Item>
+          <liveries>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="true"/>
+            <Item value="false"/>
+          </liveries>
+          <indices content="char_array">
+            0
+            0
+            0
+            0
+          </indices>
+        </Item>
+        <Item>
+          <liveries>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="false"/>
+            <Item value="true"/>
+          </liveries>
+          <indices content="char_array">
+            0
+            0
+            0
+            0
+          </indices>
+        </Item>
+      </colors>
+      <lightSettings value="119"/>
+    </Item>
+    <Item>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <sirenSettings value="13100"/>
+      <windowsWithExposedEdges/>
+      <modelName>coroner</modelName>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <colors>
+        <Item>
+          <liveries/>
+          <indices content="char_array">
+            <Item value="134"/>
+            <Item value="134"/>
+            <Item value="0"/>
+            <Item value="156"/>
+          </indices>
+        </Item>
+      </colors>
+      <lightSettings value="0"/>
+    </Item>
+    <Item>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <sirenSettings value="12000"/>
+      <windowsWithExposedEdges/>
+      <modelName>emsscout</modelName>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <colors>
+        <Item>
+          <liveries/>
+          <indices content="char_array">
+						0 
+						111 
+						0
+						0
+						0
+						0	
+          </indices>
+        </Item>
+      </colors>
+      <lightSettings value="1"/>
+    </Item>
+    <Item>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <sirenSettings value="167"/>
+      <windowsWithExposedEdges/>
+      <modelName>emscara</modelName>
+      <kits/>
+      <colors>
+        <Item>
+          <liveries/>
+          <indices content="char_array">
+            112
+            112
+            0
+            1
+            0
+            0
+          </indices>
+        </Item>
+      </colors>
+      <lightSettings value="450"/>
+    </Item>
+    <Item>
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>police guv plate</Name>
+            <Value value="100"/>
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <sirenSettings value="172"/>
+      <windowsWithExposedEdges/>
+      <modelName>emsbuff</modelName>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <colors>
+        <Item>
+          <liveries/>
+          <indices content="char_array">
+            <Item value="2"/>
+            <Item value="0"/>
+            <Item value="134"/>
+            <Item value="0"/>
+          </indices>
+        </Item>
+      </colors>
+      <lightSettings value="244"/>
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>
